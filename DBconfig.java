@@ -11,7 +11,7 @@ public class DBconfig {
 
         private static final String URL = "jdbc:mysql://localhost:3306/Jukebox";
         private static final String USERNAME = "root";
-        private static final String PASSWORD = "Ayush@321";
+        private static final String PASSWORD = "*******";
 
         // Method to establish a database connection
         public static Connection getConnection() throws SQLException {
